@@ -1177,7 +1177,8 @@ Use these test cases after ensuring that there are applications matching the rel
 
 ## **Appendix: Planned Enhancements**
 
-Number of Team Members: 5
+Number of Team Members: 5 <br>
+
 This section documents known limitations in the current version and the planned improvements for future releases.
 
 1. **Support for Non-English characters in fields**
